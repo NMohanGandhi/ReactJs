@@ -9,6 +9,9 @@ function Home(){
             <div >
                 <a href="/Signup"className="btn btn-primary">Signup</a>
             </div>
+            <br/>
+            <br/>
+            <div>Forgot password</div>
         </div>
 
     )
